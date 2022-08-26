@@ -37,6 +37,8 @@ body {
   background-color: rgba(247, 195, 207, 0.6);
   border-radius: 50px;
   transition: all 0.3s;
+  color: #000;
+  tex-align: center;
 }
 
 .calculator__btn:hover {
