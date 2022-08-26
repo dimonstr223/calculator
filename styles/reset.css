@@ -168,4 +168,7 @@ select {
 
 button {
 color: #000;
+display: block;
+text-align: center;
+padding: 0;
 }
